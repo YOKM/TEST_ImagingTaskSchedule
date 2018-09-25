@@ -13,7 +13,7 @@ update msg model =
       model + 4
 
     Decrement ->
-      model - 4
+      model - 5
 
 view model =
   div []
